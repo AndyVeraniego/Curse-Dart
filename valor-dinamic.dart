@@ -12,6 +12,7 @@ void main() {
   dynamic aleatorio4=true;
   dynamic aleatorio5= null;
 //todos esos valores de arriba son validos 
+//hace perder cualquier restriccion el dynamic 
 
 
   print("""
